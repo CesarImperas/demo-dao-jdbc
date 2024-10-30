@@ -11,6 +11,7 @@ public class Department implements Serializable {
 	private Integer id;
 	private String name;
 	
+	// Construtor padrão
 	public Department() {}
 	
 	public Department(Integer id, String name) {
